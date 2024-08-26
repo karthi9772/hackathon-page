@@ -1,0 +1,132 @@
+/* Rectangle 1 */
+
+.rect1 {
+  position: absolute;
+  width: 1512px;
+  height: 519px;
+  left: 0px;
+  top: 0px;
+
+  background: #17212e;
+}
+
+/* Rectangle 3 */
+.rect3 {
+  position: absolute;
+  width: 430px;
+  height: 430px;
+  left: 176px;
+  top: 412.54px;
+
+  background: #f5cf6b;
+  border-radius: 40px;
+  transform: rotate(-75.63deg);
+}
+
+/* Rectangle 2 */
+.rect2 {
+  position: absolute;
+  width: 1056.75px;
+  height: 604.31px;
+  left: 109px;
+  top: 201.76px;
+
+  background: #17212e;
+  border-radius: 40px;
+  transform: rotate(-26.21deg);
+}
+/* AI & ML */
+.aiml {
+  position: absolute;
+  width: 317px;
+  height: 154px;
+  left: 338px;
+  top: 215px;
+
+  font-family: "Katibeh";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 128px;
+  line-height: 154px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+/* Line 1 */
+.line1 {
+  position: absolute;
+  width: 159.01px;
+  height: 0px;
+  left: 30px;
+  top: 448px;
+
+  border: 2px solid #f5cf6b;
+  transform: rotate(-0.73deg);
+}
+
+/* Line 4 */
+
+.line4 {
+  position: absolute;
+  width: 159.01px;
+  height: 0px;
+  left: 30px;
+  top: 40.03px;
+
+  border: 2px solid #f5cf6b;
+  transform: rotate(-0.73deg);
+}
+/* Line 2 */
+
+.line2 {
+  position: absolute;
+  width: 100px;
+  height: 0px;
+  left: 30px;
+  top: 398.03px;
+
+  border: 2px solid #f5cf6b;
+  transform: rotate(-0.01deg);
+}
+/* Line 5 */
+.line5 {
+  position: absolute;
+  width: 100px;
+  height: 0px;
+  left: 30px;
+  top: 85.03px;
+
+  border: 2px solid #f5cf6b;
+  transform: rotate(-0.01deg);
+}
+/* Line 3 */
+.line3 {
+  position: absolute;
+  width: 50px;
+  height: 0px;
+  left: 30px;
+  top: 350px;
+
+  border: 2px solid #f5cf6b;
+}
+/* Line 6 */
+.line6 {
+  position: absolute;
+  width: 50px;
+  height: 0px;
+  left: 30px;
+  top: 129px;
+
+  border: 2px solid #f5cf6b;
+}
+/* Artificial-intelligence-Deep-Learning-removebg-preview 1 */
+.aimlimg {
+  position: absolute;
+  width: 691px;
+  height: 361px;
+  left: 789px;
+  top: 78px;
+
+  background: url(Artificial-intelligence-Deep-Learning-removebg-preview.png);
+}

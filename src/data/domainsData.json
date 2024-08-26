@@ -1,0 +1,208 @@
+[
+  {
+    "id": "health-care",
+    "img": "health",
+    "title": "Health Care",
+    "description": "Tackle pressing challenges in healthcare by developing solutions that improve patient care, streamline medical processes, and enhance health outcomes. Create telemedicine platforms, health monitoring apps, or AI-driven diagnostic tools. Make a real difference by revolutionizing healthcare with your innovative technologies. Join us to contribute to a healthier, more efficient world.",
+    "problemStatements": [
+      {
+        "title": "Interoperability of Electronic Health Records (EHRs)",
+        "problem": "The healthcare industry faces significant challenges   due to the lack of interoperability among various Electronic Health Record (EHR) systems. This fragmentation leads to incomplete patient records, treatment errors, and inefficiencies in care delivery"
+      },
+      {
+        "title": "Real-Time Patient Monitoring",
+        "problem": "Current patient monitoring systems often fail to provide real-time data processing and alert mechanisms, resulting in delays in detecting critical changes in patient condition"
+      },
+      {
+        "title": "Data Security and Privacy",
+        "problem": "Many rural and underserved areas lack the necessary infrastructure for effective telemedicine services, limiting access to healthcare for these populations"
+      }
+    ]
+  },
+  {
+    "id": "finance",
+    "title": "Finance",
+    "img": "finance",
+    "description": "Dive into financial innovation by tackling challenges that reshape money management and investment. Develop cutting-edge fintech solutions, enhance digital banking, or create tools for financial literacy. Collaborate with experts and leverage the latest technologies. Your ideas can help build a more inclusive, transparent, and efficient financial ecosystem.",
+    "problemStatements": [
+      {
+        "title": "Blockchain for Supply Chain Finance",
+        "problem": "Traditional supply chain finance processes are often slow, opaque, and prone to errors, affecting liquidity and trust among stakeholders."
+      },
+      {
+        "title": "Real-Time Fraud Detection",
+        "problem": "Current patient monitoring systems often fail to provide real-time data processing and alert mechanisms, resulting in delays in detecting critical changes in patient conditions."
+      },
+      {
+        "title": "Real-Time Fraud Detection",
+        "problem": "Current patient monitoring systems often fail to provide real-time data processing and alert mechanisms, resulting in delays in detecting critical changes in patient conditions."
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "title": "Education",
+    "img": "education",
+    "description": "Dive into the Education category to create innovative solutions that enhance learning experiences. Develop tools and platforms that make education more accessible, engaging, and effective for students of all ages. Tackle challenges like remote learning, personalized education, and educational content delivery. Help shape the future of education with your groundbreaking ideas!",
+    "problemStatements": [
+      {
+        "title": "Gamification in Education",
+        "problem": "Traditional educational methods can sometimes fail to engage students, leading to decreased motivation and participation."
+      },
+      {
+        "title": "Personalized Learning Experiences",
+        "problem": "Traditional education models often fail to cater to the individual learning needs and paces of students, leading to disengagement and suboptimal learning outcomes. "
+      },
+      {
+        "title": "Hybrid Learning Models",
+        "problem": "The COVID-19 pandemic has accelerated the adoption of hybrid learning models, combining in-person and online education. However, many institutions struggle to balance these modes effectively, leading to inconsistencies in student engagement and learning outcomes. "
+      }
+    ]
+  },
+  {
+    "id": "socialimpact",
+    "title": "Social Impact",
+    "img": "social",
+    "description": "Tackle pressing societal challenges and create innovative solutions that can make a real difference. From healthcare to education, your ideas can help improve lives and build stronger communities. Join us in driving positive change through technology and collaboration. Together, we can address the most critical issues facing our world today",
+    "problemStatements": [
+      {
+        "title": "Sustainable Urban Development",
+        "problem": "Rapid urbanization is leading to overcrowded cities, inadequate infrastructure, and environmental degradation."
+      },
+      {
+        "title": "Affordable Housing Solutions",
+        "problem": "The global housing crisis has left millions without adequate, affordable housing. Rising costs and income inequality exacerbate this issue, making it difficult for many to secure stable living conditions."
+      },
+      {
+        "title": "Food Security and Sustainable Agriculture",
+        "problem": "Global hunger and food insecurity are persistent issues, exacerbated by climate change, conflict, and economic instability."
+      }
+    ]
+  },
+
+  {
+    "id": "smartcities",
+    "title": "Smart Cities",
+    "img": "smart-city",
+    "description": "Smart Cities focus on leveraging technology to create urban environments that are efficient, sustainable, and livable. Challenges in this category involve developing solutions for better infrastructure, smart transportation, energy management, and improving the overall quality of life for city residents. Innovate to make cities smarter, safer, and more connected.",
+    "problemStatements": [
+      {
+        "title": "Smart Mobility Solutions",
+        "problem": "Urban areas face significant challenges with traffic congestion, pollution, and inefficient public transportation systems."
+      },
+      {
+        "title": "Digital Citizen Services",
+        "problem": "Many city services are still manual and paper-based, leading to inefficiencies and delays in service delivery. "
+      },
+      {
+        "title": " E-Governance and Transparency",
+        "problem": "Lack of transparency and citizen engagement in governance processes can lead to mistrust and inefficiencies"
+      }
+    ]
+  },
+
+  {
+    "id": "agriculture",
+    "title": "Agriculture",
+    "img": "agri",
+    "description": "Agriculture challenges aim to revolutionize farming practices through technology and innovation. Participants will explore solutions for precision farming, crop monitoring, sustainable resource management, and improving food security. This category is your chance to develop tools and systems that enhance agricultural efficiency and support the global food supply chain.",
+    "problemStatements": [
+      {
+        "title": "Sustainable Soil Management",
+        "problem": "Intensive farming practices have led to soil degradation, reducing soil fertility and agricultural productivity. "
+      },
+      {
+        "title": "Smart Irrigation Systems",
+        "problem": "Water scarcity and inefficient irrigation practices are major challenges in agriculture, leading to water wastage and reduced crop yields. "
+      },
+      {
+        "title": "Agricultural Supply Chain Transparency",
+        "problem": ":The agricultural supply chain is often opaque, leading to inefficiencies, food waste, and lack of traceability. "
+      }
+    ]
+  },
+
+  {
+    "id": "gaming",
+    "title": "Gaming & Entertainment",
+    "img": "game1",
+    "description": "Gaming and Entertainment challenges invite you to create immersive experiences that captivate and engage audiences. Whether it's developing innovative game mechanics, enhancing virtual reality, or designing interactive media, this category is all about pushing the boundaries of fun and creativity. Bring your ideas to life and shape the future of entertainment.",
+    "problemStatements": [
+      {
+        "title": "Sustainable Game Development",
+        "problem": "The gaming industry faces environmental challenges due to high energy consumption and electronic waste"
+      },
+      {
+        "title": " Inclusive Game Design",
+        "problem": "Many games lack features that accommodate players with disabilities, limiting their ability to fully enjoy gaming experiences"
+      },
+      {
+        "title": "Virtual Reality (VR) Accessibility",
+        "problem": "High costs and technical barriers limit the accessibility of VR gaming to a broader audience."
+      }
+    ]
+  },
+
+  {
+    "id": "aiml",
+    "title": "AI & ML",
+    "img": "aiml",
+    "description": "AI and ML challenges are all about harnessing the power of artificial intelligence and machine learning to solve complex problems. Explore innovative applications in areas like predictive analytics, natural language processing, and autonomous systems. This category is your chance to develop intelligent solutions that can learn, adapt, and transform industries.",
+    "problemStatements": [
+      {
+        "title": "Explainable AI (XAI)",
+        "problem": "Many AI models, especially deep learning models, operate as “black boxes,” making it difficult to understand their decision-making processes. "
+      },
+      {
+        "title": "Federated Learning",
+        "problem": "Centralized machine learning models require aggregating data from multiple sources, raising privacy and security concerns. "
+      },
+      {
+        "title": "Natural Language Processing (NLP) for Multilingual Support",
+        "problem": "Many NLP models are primarily trained on English data, limiting their effectiveness in multilingual and multicultural contexts. "
+      }
+    ]
+  },
+
+  {
+    "id": "iot",
+    "title": "Internet Of Things",
+    "img": "iot",
+    "description": "IoT challenges focus on connecting the physical and digital worlds through smart devices and sensors. Participants will create innovative solutions that enable seamless communication and automation in areas like smart homes, healthcare, and industrial systems. This category offers the opportunity to design interconnected systems that enhance efficiency and improve everyday life.",
+    "problemStatements": [
+      {
+        "title": "Energy Efficiency in IoT Devices",
+        "problem": "Many IoT devices are battery-powered and require frequent recharging or replacement, leading to maintenance challenges and environmental impact."
+      },
+      {
+        "title": "Scalability of IoT Networks",
+        "problem": ":As the number of connected devices grows, managing and scaling IoT networks becomes increasingly complex. "
+      },
+      {
+        "title": "Environmental Monitoring with IoT",
+        "problem": "Monitoring environmental parameters such as air quality, water quality, and soil conditions is crucial but often lacks real-time data. "
+      }
+    ]
+  },
+
+  {
+    "id": "embedded",
+    "title": "Embedded Systems",
+    "img": "embedded",
+    "description": "Embedded Systems challenges center around designing specialized computing systems that perform dedicated functions within larger devices. Tackle problems related to hardware-software integration, real-time processing, and optimization for performance and reliability. Innovate to create efficient, intelligent systems that power everything from consumer electronics to industrial machinery.",
+    "problemStatements": [
+      {
+        "title": "Edge AI Integration",
+        "problem": "The increasing demand for real-time data processing and decision-making in embedded systems requires integrating AI capabilities directly at the edge."
+      },
+      {
+        "title": "Low Power Consumption",
+        "problem": " Many embedded systems, especially those in remote or portable applications, require efficient power management to extend battery life and reduce energy consumption"
+      },
+      {
+        "title": "AI and ML Integration",
+        "problem": "Integrating AI and machine learning capabilities into embedded systems can be complex and resource-intensive."
+      }
+    ]
+  }
+]

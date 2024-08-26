@@ -1,0 +1,24 @@
+{
+  "description": "You have come to the main step where you are going to showcase your talent. There are three levels to complete. The description of the levels are given below. After completing each step, the result will be announced through the mail, and those candidates will be eligible for the next round.",
+  "buttonText": "All the Best !!!",
+  "levels": [
+    {
+      "title": "Level 1: Ideation and Proposal Submission",
+      "description": "Participants will form teams and brainstorm innovative ideas to address key societal challenges. Teams must submit a detailed proposal outlining their solution, its potential impact, and implementation strategy. Proposals will be evaluated based on creativity, feasibility, and relevance to the social impact theme.",
+      "date": "22 Aug - 24 Aug 2024",
+      "button": "Begin"
+    },
+    {
+      "title": "Level 2: Prototype Development",
+      "description": "Selected teams from Level 1 will advance to develop a working prototype of their proposed solution. This stage involves creating a minimum viable product (MVP) that demonstrates the core functionality and potential impact. Teams will receive mentorship from industry experts to refine their prototypes. Prototypes will be assessed on usability, technical execution, and alignment with the initial proposal.",
+      "date": "27 Aug - 2 Sept 2024",
+      "button": "Begin"
+    },
+    {
+      "title": "Level 3: Final Presentation and Judging",
+      "description": "Finalists will present their fully developed prototypes and business plans to a panel of judges. This presentation should include a demonstration of the prototype, a comprehensive business strategy, and a roadmap for future development. Judges will evaluate based on innovation, practicality, and potential for real-world implementation. Winning teams will be awarded based on their overall performance and potential to create a meaningful social impact.",
+      "date": "3 Sept - 10 Sept 2024",
+      "button": "Begin"
+    }
+  ]
+}
